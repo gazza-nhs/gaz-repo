@@ -6,7 +6,7 @@
 - 💬 Ask me about **anything**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">HELLO lets commit this
+<p align="left">HELLO lets MAKE a PULL request 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
