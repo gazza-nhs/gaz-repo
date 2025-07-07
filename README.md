@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gazza</h1>
-<h3 align="center">A passionate frontend developer from UK</h3>
+<h1 align="center">Hi 👋, I'm Gaz</h1>
+<h3 align="center">A frontend developer from UK</h3>
 
 - 🌱 I’m currently learning **RPA with Blue Prism**
 
 - 💬 Ask me about **anything**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">HELLO lets MAKE a PULL request 
+<p align="left">HELLO 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
